@@ -97,9 +97,5 @@ PacketXplorer demonstrates practical network traffic analysis using Wireshark an
 
 ---
 
-## 👤 Author
-
-**Siddhesh Patil**  
-Cybersecurity & Networking Enthusiast
 
 
